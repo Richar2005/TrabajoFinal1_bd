@@ -1,0 +1,4 @@
+
+              links para la creacion del CRUD
+
+https://cosasdedevs.com/posts/creacion-de-modelos-y-migracion-de-tablas-con-laravel-8/
